@@ -39,51 +39,52 @@ class Agent:
     def Solve(self, problem):
         problem_figures = self.get_problem_images(problem)
         solution_figures = self.get_solution_images(problem)
-        if(self.check_all_equal(problem_figures)):
-            solution_figure_file_num = self.find_matching_solution_figure(problem_figures[0], solution_figures)
-            if solution_figure_file_num:
-                return int(solution_figure_file_num)
-        if(self.check_if_a_b_equal(problem_figures)):
-            for figure in problem_figures:
-                fileName = figure.visualFilename
-                if ('C.png' in fileName):
-                    solution_figure_file_num = self.find_matching_solution_figure(figure, solution_figures)
-                    if solution_figure_file_num:
-                        return int(solution_figure_file_num)
+        if self.is_two_by_two_problem:
+            if(self.check_all_equal(problem_figures)):
+                solution_figure_file_num = self.find_matching_solution_figure(problem_figures[0], solution_figures)
+                if solution_figure_file_num:
+                    return int(solution_figure_file_num)
+            if(self.check_if_a_b_equal(problem_figures)):
+                for figure in problem_figures:
+                    fileName = figure.visualFilename
+                    if ('C.png' in fileName):
+                        solution_figure_file_num = self.find_matching_solution_figure(figure, solution_figures)
+                        if solution_figure_file_num:
+                            return int(solution_figure_file_num)
 
-        if(self.check_if_a_c_equal(problem_figures)):
-            for figure in problem_figures:
-                fileName = figure.visualFilename
-                if('B.png' in fileName):
-                    solution_figure_file_num = self.find_matching_solution_figure(figure, solution_figures)
-                    if(solution_figure_file_num):
-                        return int(solution_figure_file_num)
-
-        if(self.check_y_axis_change(problem_figures)):
-            for figure in problem_figures:
-                fileName = figure.visualFilename
-                if('C.png' in fileName):
-                    solution_figure_file_num = self.find_matching_y_axis_flipped_solution_figure(figure, solution_figures)
-                    if(solution_figure_file_num):
-                        return int(solution_figure_file_num)
-                    else:
-                        #checked for mixed transpose
-                        solution_figure_file_num =self.find_matching_x_axis_flipped_solution_figure(figure, solution_figures)
+            if(self.check_if_a_c_equal(problem_figures)):
+                for figure in problem_figures:
+                    fileName = figure.visualFilename
+                    if('B.png' in fileName):
+                        solution_figure_file_num = self.find_matching_solution_figure(figure, solution_figures)
                         if(solution_figure_file_num):
                             return int(solution_figure_file_num)
 
-        if(self.check_x_axis_change(problem_figures)):
-            for figure in problem_figures:
-                fileName = figure.visualFilename
-                if('B.png' in fileName):
-                    solution_figure_file_num = self.find_matching_x_axis_flipped_solution_figure(figure, solution_figures)
-                    if(solution_figure_file_num):
-                        return int(solution_figure_file_num)
-                    else:
-                        #checked for mix transpose
+            if(self.check_y_axis_change(problem_figures)):
+                for figure in problem_figures:
+                    fileName = figure.visualFilename
+                    if('C.png' in fileName):
                         solution_figure_file_num = self.find_matching_y_axis_flipped_solution_figure(figure, solution_figures)
                         if(solution_figure_file_num):
                             return int(solution_figure_file_num)
+                        else:
+                            #checked for mixed transpose
+                            solution_figure_file_num =self.find_matching_x_axis_flipped_solution_figure(figure, solution_figures)
+                            if(solution_figure_file_num):
+                                return int(solution_figure_file_num)
+
+            if(self.check_x_axis_change(problem_figures)):
+                for figure in problem_figures:
+                    fileName = figure.visualFilename
+                    if('B.png' in fileName):
+                        solution_figure_file_num = self.find_matching_x_axis_flipped_solution_figure(figure, solution_figures)
+                        if(solution_figure_file_num):
+                            return int(solution_figure_file_num)
+                        else:
+                            #checked for mix transpose
+                            solution_figure_file_num = self.find_matching_y_axis_flipped_solution_figure(figure, solution_figures)
+                            if(solution_figure_file_num):
+                                return int(solution_figure_file_num)
         #check percentage difference in dark pixel ratio
         solution_figure_file_num = self.find_dark_pixel_solution(problem_figures, solution_figures)
         return int(solution_figure_file_num)
