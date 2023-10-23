@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3499d735-8ccc-4f56-bbf9-9830abf50e89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AgentAnswers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/AgentAnswers.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemResults.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemResults.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ProblemSetList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/ProblemSetList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SetResults.csv" beforeDir="false" afterPath="$PROJECT_DIR$/SetResults.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/helloooooo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playaround.py" beforeDir="false" afterPath="$PROJECT_DIR$/playaround.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.zip" beforeDir="false" afterPath="$PROJECT_DIR$/student.zip" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,46 +62,90 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-445402670">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="17894" />
+          <entry key="txt" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="52" />
+          <entry key="Python" value="17859" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PNG" value="60" />
+          <entry key="csv" value="35" />
+          <entry key="png" value="5" />
+          <entry key="py" value="35" />
+          <entry key="txt" value="66" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="65" />
+          <entry key="PLAIN_TEXT" value="102" />
+          <entry key="Python" value="34" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Agent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1911">
-              <caret line="228" column="94" selection-start-line="228" selection-start-column="94" selection-end-line="228" selection-end-column="94" />
+            <state relative-caret-position="9465">
+              <caret line="637" selection-start-line="637" selection-end-line="637" />
               <folding>
                 <element signature="e#415#436#0" expanded="true" />
-                <marker date="1537757327262" expanded="true" signature="4984:5421" ph="..." />
-                <marker date="1537757327262" expanded="true" signature="5718:5727" ph="..." />
-                <marker date="1537757327262" expanded="true" signature="7679:7685" ph="..." />
-                <marker date="1537757327262" expanded="true" signature="7732:8187" ph="..." />
-                <marker date="1537757327262" expanded="true" signature="9402:9408" ph="..." />
+                <marker date="1543769730493" expanded="true" signature="18132:18137" ph="..." />
+                <marker date="1543769730493" expanded="true" signature="20228:20237" ph="..." />
+                <marker date="1543769730493" expanded="true" signature="22699:22708" ph="..." />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helloooooo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-07/Basic Problem E-07.PNG">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RavensProject.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+            <state relative-caret-position="780">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="e#457#466#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems C/Challenge Problem C-10/Challenge Problem C-10.PNG">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-10/Basic Problem B-10.PNG">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -112,6 +166,16 @@
       <find>hist</find>
       <find>transpo</find>
       <find>{}</find>
+      <find>abs</find>
+      <find>lambda</find>
+      <find>root</find>
+      <find>figure</find>
+      <find>get_solution_with_same_dark_pixel_ratio</find>
+      <find>solve_D_Problems</find>
+      <find>965</find>
+      <find>963</find>
+      <find>solve_d</find>
+      <find>solve_D</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -121,31 +185,36 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ProblemSet.py" />
         <option value="$PROJECT_DIR$/AgentAnswers.csv" />
-        <option value="$PROJECT_DIR$/playaround.py" />
-        <option value="$PROJECT_DIR$/Agent.py" />
         <option value="$PROJECT_DIR$/RavensProject.py" />
+        <option value="$PROJECT_DIR$/playaround.py" />
+        <option value="$PROJECT_DIR$/playground2.py" />
+        <option value="$PROJECT_DIR$/Problems/ProblemSetList.txt" />
+        <option value="$PROJECT_DIR$/helloooooo.py" />
+        <option value="$PROJECT_DIR$/Agent.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="757" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="792" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,83 +222,10 @@
               <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic Problems B" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic Problems B" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic Problem B-10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic Problems B" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic Problem B-11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic Problems B" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic Problem B-12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge Problems B" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge Problems B" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge Problem B-01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge Problems B" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge Problem B-12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge Problems C" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge Problems C" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge Problem C-01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project-Code-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project-Code-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge Problems C" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge Problem C-10" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,6 +308,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="helloooooo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project-Code-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloooooo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="playaround" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project-Code-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,12 +355,14 @@
       <item itemvalue="Python.RavensProblem" />
       <item itemvalue="Python.playaround" />
       <item itemvalue="Python.Agent" />
+      <item itemvalue="Python.helloooooo" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.RavensProject" />
-        <item itemvalue="Python.RavensProblem" />
+        <item itemvalue="Python.helloooooo" />
         <item itemvalue="Python.playaround" />
+        <item itemvalue="Python.RavensProblem" />
         <item itemvalue="Python.Agent" />
       </list>
     </recent_temporary>
@@ -352,15 +371,14 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="757" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="792" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37085137" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.34920636" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32983682" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36971352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2796726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -371,12 +389,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24945612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37085137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34920636" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32983682" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36971352" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2796726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -395,13 +413,23 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playaround.py</url>
-          <line>60</line>
-          <option name="timeStamp" value="50" />
+          <line>179</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RavensProject.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playaround.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="51" />
+          <line>36</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Agent.py</url>
+          <line>637</line>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -414,202 +442,202 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems B/Challenge Problem B-07/Challenge Problem B-07.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems B/Challenge Problem B-06/Challenge Problem B-06.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems B/Challenge Problem B-05/Challenge Problem B-05.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems B/Challenge Problem B-04/Challenge Problem B-04.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems B/Challenge Problem B-12/ProblemData.txt">
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-02/ProblemAnswer.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-02/Basic Problem B-02.PNG">
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-03/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-04/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-05/Basic Problem D-05.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems B/Challenge Problem B-12/A.png">
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-05/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-06/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-07/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-07/Basic Problem D-07.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/RavensFigure.py">
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-11/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-11/Basic Problem D-11.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-01/Basic Problem E-01.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-03/Basic Problem E-03.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-03/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground2.py" />
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-04/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-05/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-05/Basic Problem E-05.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-10/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-04/Basic Problem E-04.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-10/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-10/Basic Problem E-10.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-10/Basic Problem D-10.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/ProblemSetList.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-03/ProblemData.txt">
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-01/Basic Problem D-01.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-02/Basic Problem D-02.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-03/Basic Problem D-03.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-04/Basic Problem D-04.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-08/ProblemAnswer.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmEdu2018.2/python_stubs/-1247972723/__builtin__.py">
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-08/Basic Problem D-08.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-09/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-12/Basic Problem D-12.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems D/Basic Problem D-12/ProblemAnswer.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="479" column="4" selection-start-line="479" selection-start-column="4" selection-end-line="479" selection-end-column="4" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-03/3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-03/2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-03/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-03/Basic Problem B-03.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-05/Basic Problem B-05.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-04/Basic Problem B-04.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py">
+    <entry file="file://$PROJECT_DIR$/newFile.txt" />
+    <entry file="file://$PROJECT_DIR$/AgentAnswers.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="889" selection-start-line="889" selection-end-line="889" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newFile.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-01/A.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-01/Basic Problem B-01.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-01/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-02/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-03/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-04/ProblemData.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-04/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-05/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-06/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-07/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-07/Basic Problem B-07.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-08/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-08/Basic Problem B-08.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-11/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-12/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-06/Basic Problem B-06.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playaround.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <marker date="1537500527052" expanded="true" signature="1592:2040" ph="..." />
-            <marker date="1537500527052" expanded="true" signature="3017:3960" ph="..." />
-            <marker date="1537500527052" expanded="true" signature="3988:3995" ph="..." />
-            <marker date="1537500527052" expanded="true" signature="3988:4454" ph="..." />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/language.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-09/ProblemAnswer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-09/ProblemData.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-09/Basic Problem B-09.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RavensProblem.py">
+    <entry file="file://$PROJECT_DIR$/playaround.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="227">
+          <caret line="27" selection-start-line="27" selection-end-line="29" selection-end-column="102" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1543430234200" expanded="true" signature="1200:1784" ph="..." />
+            <marker date="1543430234200" expanded="true" signature="1589:1782" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AgentAnswers.csv">
+    <entry file="file://$PROJECT_DIR$/ProblemSet.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-11/Basic Problem B-11.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-12/Basic Problem B-12.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems C/Challenge Problem C-01/Challenge Problem C-01.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems B/Challenge Problem B-12/Challenge Problem B-12.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems B/Challenge Problem B-01/Challenge Problem B-01.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-10/ProblemAnswer.txt">
+    <entry file="file://$PROJECT_DIR$/RavensFigure.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RavensGrader.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RavensObject.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RavensProblem.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SetResults.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemResults.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-07/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-08/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-09/ProblemAnswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9465">
+          <caret line="637" selection-start-line="637" selection-end-line="637" />
+          <folding>
+            <element signature="e#415#436#0" expanded="true" />
+            <marker date="1543769730493" expanded="true" signature="18132:18137" ph="..." />
+            <marker date="1543769730493" expanded="true" signature="20228:20237" ph="..." />
+            <marker date="1543769730493" expanded="true" signature="22699:22708" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems E/Basic Problem E-07/Basic Problem E-07.PNG">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/RavensProject.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        <state relative-caret-position="780">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="e#457#466#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Challenge Problems C/Challenge Problem C-10/Challenge Problem C-10.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems/Basic Problems B/Basic Problem B-10/Basic Problem B-10.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Agent.py">
+    <entry file="file://$PROJECT_DIR$/helloooooo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1911">
-          <caret line="228" column="94" selection-start-line="228" selection-start-column="94" selection-end-line="228" selection-end-column="94" />
-          <folding>
-            <element signature="e#415#436#0" expanded="true" />
-            <marker date="1537757327262" expanded="true" signature="4984:5421" ph="..." />
-            <marker date="1537757327262" expanded="true" signature="5718:5727" ph="..." />
-            <marker date="1537757327262" expanded="true" signature="7679:7685" ph="..." />
-            <marker date="1537757327262" expanded="true" signature="7732:8187" ph="..." />
-            <marker date="1537757327262" expanded="true" signature="9402:9408" ph="..." />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
         </state>
       </provider>
     </entry>
